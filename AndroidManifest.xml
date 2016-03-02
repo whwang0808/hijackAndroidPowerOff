@@ -10,13 +10,13 @@
 
     <application
         android:allowBackup="true"
-        android:label="劫持关机" >
+        android:label="正在关机" >
         <meta-data
             android:name="xposedmodule"
             android:value="true" />
         <meta-data
             android:name="xposeddescription"
-            android:value="劫持关机" />
+            android:value="正在关机" />
         <meta-data
             android:name="xposedminversion"
             android:value="30" />
